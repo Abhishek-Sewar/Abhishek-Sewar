@@ -1,16 +1,16 @@
 # Hi, I'm Abhishek 👋
 
-I'm a graduate student in Artificial Intelligence at Northeastern University (GPA: 3.5) with a B.Tech in Mechatronics Engineering — a combination that lets me work across the full stack of intelligent systems, from perception algorithms to physical hardware.
+I'm a graduate student in Artificial Intelligence at Northeastern University (GPA: 3.5) with a B.Tech in Mechatronics Engineering, a combination that lets me work across the full stack of intelligent systems, from perception algorithms to physical hardware.
 
-I build production-grade AI systems — not just notebooks. Everything I ship is containerized, benchmarked, and deployable.
+I build production-grade AI systems not just notebooks. Everything I ship is containerized, benchmarked, and deployable.
 
 ---
 
 ## 🔨 What I'm Building
 
-- 🔊 **Audio Anomaly Detection** — Unsupervised fault detection using convolutional autoencoders on mel spectrograms. 0.83 AUROC on DCASE 2020 Task 2, outperforming the original challenge baseline. Claude API for diagnostic reports.
-- 📄 **Multimodal RAG System** — GPT-4o vision captioning + PyMuPDF extraction + two-stage retrieval (ANN over-fetch → Cohere reranking) served via SSE streaming. Fully containerized with Docker Compose.
-- 🤖 **Enterprise Call Summary Agent** — LangChain + ChromaDB RAG pipeline for automated call transcription, structured summarization, and semantic search over conversation archives.
+- 🔊 **Audio Anomaly Detection** : Unsupervised fault detection using convolutional autoencoders on mel spectrograms. 0.83 AUROC on DCASE 2020 Task 2, outperforming the original challenge baseline. Claude API for diagnostic reports.
+- 📄 **Multimodal RAG System** : GPT-4o vision captioning + PyMuPDF extraction + two-stage retrieval (ANN over-fetch → Cohere reranking) served via SSE streaming. Fully containerized with Docker Compose.
+- 🤖 **Enterprise Call Summary Agent** : LangChain + ChromaDB RAG pipeline for automated call transcription, structured summarization, and semantic search over conversation archives.
 
 ---
 
